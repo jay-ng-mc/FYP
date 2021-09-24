@@ -9,6 +9,8 @@ Recommendation for the order of execution of code:
 3. graph_oc.ipynb
 4. data_analysis.ipynb
 
+Hand collected data for political indicators and mined data for economic indicators can be found in FYP_aggregate_data.csv
+
 Keywords:
 Influence, Economic, Political, China, Australia, New Zealand, International Trade, United Front, Overseas Chinese
 
